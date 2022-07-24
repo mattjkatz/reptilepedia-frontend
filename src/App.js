@@ -1,9 +1,9 @@
-import PersonList from "./components/PersonList.js";
+import Posts from "./components/Posts.js";
 
 export default function App() {
   return (
     <div className="App">
-      <PersonList />
+      <Posts />
     </div>
   );
 }
