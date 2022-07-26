@@ -16,6 +16,7 @@ export default class Posts extends React.Component {
   render() {
     return (
       <div className="card mb-3">
+        <h1>posts.caption</h1>
         <img className="card-img-top" src="..." alt="Card cap"></img>
         <div className="card-body">
           <h5 className="card-title">Card title</h5>
